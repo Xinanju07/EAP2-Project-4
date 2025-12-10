@@ -23,6 +23,12 @@ export default defineConfig({
 
     sidebar: getArticles(),
 
+    editLink: {
+      pattern:
+        "https://github.com/Xinanju07/EAP2-Project-4/edit/main/:path",
+      text: "Edit Page",
+    },
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Xinanju07' }
     ]
