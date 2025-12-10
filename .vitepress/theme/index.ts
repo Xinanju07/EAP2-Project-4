@@ -10,9 +10,8 @@ import { useRoute } from "vitepress";
 
 import ArticleCard from "../components/ArticleCard.vue";
 import CardContainer from "../components/CardContainer.vue";
-import DocxCard from "../components/DocxCard.vue";
+import OfficeCard from "../components/OfficeCard.vue";
 import LinkCard from "../components/LinkCard.vue";
-import PptxCard from "../components/PptxCard.vue";
 import CopyButton from "@cssnr/vitepress-plugin-copybutton";
 import BackToTopButton from "@miletorix/vitepress-back-to-top-button";
 import imageViewer from "vitepress-plugin-image-viewer";
@@ -23,9 +22,8 @@ export default {
   enhanceApp({ app, router, siteData }) {
     app.component("ArticleCard", ArticleCard);
     app.component("CardContainer", CardContainer);
-    app.component("DocxCard", DocxCard);
+    app.component("OfficeCard", OfficeCard);
     app.component("LinkCard", LinkCard);
-    app.component("PptxCard", PptxCard);
     app.component("vImageViewer", vImageViewer);
     app.component("C", CopyButton);
     BackToTopButton(app);
