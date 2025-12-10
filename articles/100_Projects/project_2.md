@@ -6,5 +6,5 @@ date: 2025/12/09 11:44
 author: Xinanju @ School
 ---
 
-<DocxCard src="/docs/Project 2.docx" />
-<DocxCard src="/docs/Project 2 RE.docx" />
+<OfficeCard src="/docs/Project 2.docx" />
+<OfficeCard src="/docs/Project 2 RE.docx" />
