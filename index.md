@@ -3,16 +3,18 @@
 layout: home
 
 hero:
-  name: "Xinanju Blod"
+  name: "Siyuan (Steven) Wu"
   text: "Stuff about me"
   
   image:
     src: "/avatar.webp"
 ---
 
-Hello, 我是人称红色有角三倍速的夏亚-阿兹纳布尔, 我的格言是：
+Hello, I am me,
+stealing air from nature just to breathe.
+And my motto, until I drop:
 
-<h3>联邦军的MS是怪物吗</h3>
+<h3>Keep breathing—don’t you stop.</h3>
 
 <CardContainer/>
 
