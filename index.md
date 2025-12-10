@@ -9,11 +9,11 @@ hero:
     src: "/avatar.webp"
 ---
 
-Hello, I am me,
-stealing air from nature just to breathe.
+Hello, I am me,<br>
+stealing air from nature just to breathe.<br>
 And my motto, until I drop:
 
-<h3>Keep breathing—don’t you stop.</h3>
+<h3 style="margin-top:10px;">Keep Breathing—Don’t You Stop.</h3>
 
 
 <!-- Centered, larger YouTube video -->
